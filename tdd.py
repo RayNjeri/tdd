@@ -6,4 +6,9 @@ class test_solution:
 			return a -b
 		elif op =="*":
 			return a*b
-			
+
+		elif op =="/":
+			return a/b
+
+		elif op =="%":
+			return a%b
